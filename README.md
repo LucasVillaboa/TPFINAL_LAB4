@@ -42,6 +42,5 @@ Se desarrollaron funcionalidades para generar reportes relevantes para la instit
 	6.	Diseño de la interfaz de usuario:
 La interfaz se diseñó utilizando Bootstrap, garantizando un diseño coherente y adaptativo a dispositivos móviles.
 
-El código fuente del proyecto fue gestionado con Git y se alojó en GitHub, lo que facilitó el control de versiones y la colaboración en equipo.
 
 Alumno: Villaboa Lucas Ezequiel
